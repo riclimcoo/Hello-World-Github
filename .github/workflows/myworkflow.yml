@@ -1,9 +1,10 @@
 name: Greeting from Ric
 on: push
 
+
 jobs:
-	my-job:
-	  name: My Job
+  my-job:
+    name: My Job
 	  runs-on: ubuntu-latest
 	  steps:
 	  - name: Print a greeting
