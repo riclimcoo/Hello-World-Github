@@ -13,5 +13,5 @@ jobs:
       FIRST_NAME: Ric
       MIDDLE_NAME: Lim
       LAST_NAME: COO
-    run: |
-      echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
+      run: |
+        echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
